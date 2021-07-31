@@ -1,0 +1,12 @@
+# Automation-Testing-Projects
+
+- We will get the calculator code from the drive and update it to work with files.
+- This project is a homework of the Programming Fundamentals course part 1.
+
+## TODO
+
+- [ ] Download the CodeOfCalculator.
+- [ ] Update code of calculator and remove the useless print statements
+- [ ] Update calculator code to work with files.
+- [ ] Make script to compile and run the code of calculator
+- [ ] Make evaluate.c code which takes the code's ouptut and expected output to compare them.
