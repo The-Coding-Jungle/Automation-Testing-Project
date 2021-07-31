@@ -1,4 +1,4 @@
-# Automation-Testing-Projects
+# Automation-Testing-Project
 
 - We will get the calculator code from the drive and update it to work with files.
 - This project is a homework of the Programming Fundamentals course part 1.
