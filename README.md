@@ -5,8 +5,14 @@
 
 ## TODO
 
-- [ ] Download the CodeOfCalculator.
-- [ ] Update code of calculator and remove the useless print statements
+- [x] Define the cases for I/O in the data folder.
+- [x] Download the CodeOfCalculator.
+- [x] Update code of calculator and remove the useless print statements
 - [ ] Update calculator code to work with files.
 - [ ] Make script to compile and run the code of calculator
 - [ ] Make evaluate.c code which takes the code's ouptut and expected output to compare them.
+
+## Compile and Run
+
+    gcc evaluate.c -o evaluate
+    ./evaluate
