@@ -9,7 +9,7 @@
 - [x] Download the CodeOfCalculator.
 - [x] Update code of calculator and remove the useless print statements
 - [x] Update calculator code to work with files.
-- [ ] Make script to compile and run the code of calculator
+- [x] Make script to compile and run the code of calculator
 - [ ] Make evaluate.c code which takes the code's ouptut and expected output to compare them.
 
 ## Compile and Run
