@@ -2,6 +2,7 @@
 
 - We will get the calculator code from the drive and update it to work with files.
 - This project is a homework of the Programming Fundamentals course part 1.
+- This is the first project in our Youtube series of Sunday Projects where we come every sunday to make some cool new project.
 
 ## TODO
 
