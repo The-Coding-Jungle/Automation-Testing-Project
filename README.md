@@ -10,9 +10,18 @@
 - [x] Update code of calculator and remove the useless print statements
 - [x] Update calculator code to work with files.
 - [x] Make script to compile and run the code of calculator
-- [ ] Make evaluate.c code which takes the code's ouptut and expected output to compare them.
+- [x] Make evaluate.c code which takes the code's ouptut and expected output to compare them.
 
 ## Compile and Run
 
-    gcc evaluate.c -o evaluate
-    ./evaluate
+* On Linux
+
+        cd src
+        gcc evaluate.c -o evaluate.out
+        ./evaluate.out
+
+* On Windows 
+
+        cd src
+        gcc evaluate.c -o evaluate.exe
+        .\evaluate.exe
