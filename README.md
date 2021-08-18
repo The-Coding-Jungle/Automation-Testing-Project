@@ -27,3 +27,7 @@
         cd src
         gcc evaluate.c -o evaluate.exe
         .\evaluate.exe
+        
+## YouTube Video 
+
+[![Video of the project](https://img.youtube.com/vi/Qd4FfRu9NTI/0.jpg)](https://www.youtube.com/watch?v=Qd4FfRu9NTI)
